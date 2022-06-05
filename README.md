@@ -11,13 +11,9 @@ Demo : https://www.youtube.com/watch?v=_k9xhfPueAY
 
 ![GIF 2022-06-05 14-28-27](https://user-images.githubusercontent.com/26865534/172036986-45c4cf41-49be-4ff3-91ce-4d3573c029b7.gif)
 
-・Code Rain Infinite
+・Code Rain
 
 ![GIF 2022-06-05 14-28-43](https://user-images.githubusercontent.com/26865534/172037012-16227959-7ad7-4aee-b540-d87250a9f008.gif)
-
-・Code Rain Standard
-
-![GIF 2022-06-05 14-28-58](https://user-images.githubusercontent.com/26865534/172037044-6bce982e-4e35-46f1-a2a1-447df95f571d.gif)
 
 ・Curve Parameter in Material
 
