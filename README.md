@@ -108,3 +108,7 @@ Demo : https://www.youtube.com/watch?v=zF3k8q0rrZ0
 ・Kira Sticker
 
 ![GIF 2022-07-23 11-00-29](https://user-images.githubusercontent.com/26865534/180586787-07d4a81c-e826-4366-8ae8-f2cf07d2c09c.gif)
+
+・Trail
+
+![GIF 7-30-2022 12-43-15 PM](https://user-images.githubusercontent.com/26865534/181871181-18956426-4502-4dfb-bbec-bd73db9144ea.gif)
