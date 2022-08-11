@@ -98,8 +98,8 @@ Demo : https://www.youtube.com/watch?v=zF3k8q0rrZ0
 ![GIF 2022-06-05 14-32-20](https://user-images.githubusercontent.com/26865534/172037121-bf8726c9-1857-4c7e-bd12-89484387cab5.gif)
 
 ・Fractal Tree
+![Untitled (1)](https://user-images.githubusercontent.com/26865534/184122956-739635ec-f59e-4531-951f-212ae1ac5c0a.jpg)
 
-![GIF 2022-06-05 14-32-46](https://user-images.githubusercontent.com/26865534/172037131-1ba7119d-e615-4f2d-85fa-20505a71d644.gif)
 
 ・Old Animation Blast
 
