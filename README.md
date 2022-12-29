@@ -9,9 +9,10 @@ Demo : https://www.youtube.com/watch?v=zF3k8q0rrZ0
 
 ・Simple Explosion
 
-![GIF 2022-12-29 17-09-05](https://user-images.githubusercontent.com/26865534/209922943-3c1c2117-6f9d-4d4f-b816-1e82152dcdf1.gif)
+![GIF 2022-12-29 17-16-16](https://user-images.githubusercontent.com/26865534/209923453-b1bbfc14-630e-4022-9087-23269cb9c8ed.gif)
 
-・Explosion
+・Explosion with RBD
+
 
 ![GIF 2022-06-05 14-31-09](https://user-images.githubusercontent.com/26865534/172037113-5c69fafc-7f66-4b8a-beb1-36d553fc5e59.gif)
 
