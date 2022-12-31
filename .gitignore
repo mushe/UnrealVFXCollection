@@ -75,3 +75,4 @@ DerivedDataCache/*
 
 !HoudiniFiles/*
 !EmbergenFiles/*
+HoudiniFiles/backup
