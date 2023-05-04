@@ -1,6 +1,8 @@
 # UnrealVFXCollection
 Collection of Unreal Engine 5 visual effects I made
 
+(currently UE 5.0 only, 5.1 will be supported in the future)
+
 Demo : https://www.youtube.com/watch?v=zF3k8q0rrZ0
 
 
