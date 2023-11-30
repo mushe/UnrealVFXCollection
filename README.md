@@ -7,6 +7,9 @@ Algorithm side : https://github.com/mushe/ProceduralAlgorithms
 
 Demo : https://www.youtube.com/watch?v=zF3k8q0rrZ0
 
+・Swarm like behavioring fluid simulation
+
+![GIF 12-1-2023 1-43-03 AM](https://github.com/mushe/UnrealVFXCollection/assets/26865534/b4532f9e-aa75-4b82-bea7-291b237d8f6d)
 
 ・Explosion with RBD
 
