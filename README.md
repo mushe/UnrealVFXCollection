@@ -1,7 +1,7 @@
 # UnrealVFXCollection
 Collection of Unreal Engine 5 visual effects I made
 
-(currently UE 5.0 only, 5.1 will be supported in the future)
+Unreal Engine 5.1
 
 Algorithm side : https://github.com/mushe/ProceduralAlgorithms
 
