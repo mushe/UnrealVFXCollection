@@ -1,11 +1,13 @@
 # UnrealVFXCollection
-Collection of Unreal Engine 5 visual effects I made
+collection of Unreal Engine 5 visual effects I made
 
-Unreal Engine 5.1
+the aim of this project is to cover "patterns of how to implement" , and it's an experiment in new mechanisms in Unreal Engine
+
+engine version : 5.1
 
 Algorithm side : https://github.com/mushe/ProceduralAlgorithms
 
-Demo : https://www.youtube.com/watch?v=zF3k8q0rrZ0
+Demo : [https://www.youtube.com/watch?v=zF3k8q0rrZ0](https://www.youtube.com/@mushe8652/videos)
 
 ---
 
