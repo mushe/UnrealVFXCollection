@@ -11,6 +11,8 @@ Demo : https://www.youtube.com/watch?v=zF3k8q0rrZ0
 
 ![GIF 12-1-2023 1-43-03 AM](https://github.com/mushe/UnrealVFXCollection/assets/26865534/b4532f9e-aa75-4b82-bea7-291b237d8f6d)
 
+The fish texture is photographed and captured by myself.
+
 ・Explosion with RBD
 
 ![GIF 2022-12-30 15-47-17](https://user-images.githubusercontent.com/26865534/210042524-8aa3cf80-653a-4232-9b27-d1bf67827810.gif)
