@@ -69,7 +69,7 @@ homing and collision implementation in Niagara
 
 ![GIF 2022-06-05 14-37-02](https://user-images.githubusercontent.com/26865534/172037191-f5b403d3-c1e9-422c-958f-40de224fe280.gif)
 
-texture based grid simulation in Niagara
+texture based grid simulation in Niagara(GPU simulation stages)
 
 ---
 
@@ -85,7 +85,7 @@ shader art style noise and postprocess
 
 ![GIF 8-14-2022 4-22-10 PM](https://user-images.githubusercontent.com/26865534/184528674-ac09db96-c7f9-4882-81ca-96d5bbf1c46d.gif)
 
-SPH fluid implementation in Niagara
+SPH fluid implementation in Niagara(GPU simulation stages)
 
 ---
 
@@ -159,14 +159,14 @@ post process using polar coordinates
 
 ![GIF 2023-02-05 16-28-43](https://user-images.githubusercontent.com/26865534/216807081-f3f62803-5447-450c-bf52-60e8f72bf3e3.gif)
 
-famouse swarm model
+famouse swarm model in Niagara(GPU simulation stages)
 
 ---
 
 ・Fractal Tree
 ![Untitled (1)](https://user-images.githubusercontent.com/26865534/184122956-739635ec-f59e-4531-951f-212ae1ac5c0a.jpg)
 
-implementation using binary trees in HLSL simulation stages
+implementation using binary trees in Niagaraa(GPU simulation stages)
 line drawing in Niagara
 
 ---
